@@ -4739,11 +4739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\PROJETOS\\FONTE\\GIT_HUB\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Dominio\\Dominio.csproj",
+      "projectPath": "C:\\PROJETOS\\FONTE\\GIT_HUB\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Dominio\\obj\\",
+      "outputPath": "C:\\PROJETOS\\FONTE\\GIT_HUB\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

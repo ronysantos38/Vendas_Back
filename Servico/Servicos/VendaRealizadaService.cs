@@ -53,7 +53,7 @@ namespace Servico.Servicos
         {
             try
             {
-                VendaRealizada vendaRealizada = PesquisaVendaVendaId(VendaRealizadaid);
+                VendaRealizada vendaRealizada = PesquisaRealizadaId(VendaRealizadaid);
 
                 _contexto.VendaRealizadas.Remove(vendaRealizada);
                 _contexto.SaveChanges();

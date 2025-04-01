@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ao1LlMjSizs=",
+  "dgSpecHash": "aHbfIaWV12c=",
   "success": true,
-  "projectFilePath": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Servico\\Servico.csproj",
+  "projectFilePath": "C:\\PROJETOS\\FONTE\\GIT_HUB\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Servico\\Servico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
