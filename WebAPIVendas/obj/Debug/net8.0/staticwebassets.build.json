@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "O2lnj2zOrV5ka5GXQBJBIVX625evEKF3VaDijBHnECU=",
+  "Source": "WebAPIVendas",
+  "BasePath": "_content/WebAPIVendas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

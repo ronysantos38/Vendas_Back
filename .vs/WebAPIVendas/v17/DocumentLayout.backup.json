@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C31B52-A07D-41BE-98A2-0EDD3EF87A0D}|Servico\\Servico.csproj|c:\\projetos\\fonte\\ddd_angular_net_core_new\\webapivendas\\servico\\servicos\\vendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C31B52-A07D-41BE-98A2-0EDD3EF87A0D}|Servico\\Servico.csproj|solutionrelative:servico\\servicos\\vendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4061B114-AC38-4593-B71A-A0E577C82C40}|WebAPIVendas\\WebAPIVendas.csproj|c:\\projetos\\fonte\\ddd_angular_net_core_new\\webapivendas\\webapivendas\\controllers\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4061B114-AC38-4593-B71A-A0E577C82C40}|WebAPIVendas\\WebAPIVendas.csproj|solutionrelative:webapivendas\\controllers\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C31B52-A07D-41BE-98A2-0EDD3EF87A0D}|Servico\\Servico.csproj|c:\\projetos\\fonte\\ddd_angular_net_core_new\\webapivendas\\servico\\servicos\\vendarealizadaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C31B52-A07D-41BE-98A2-0EDD3EF87A0D}|Servico\\Servico.csproj|solutionrelative:servico\\servicos\\vendarealizadaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460399BA-E628-44E0-9CCA-1D0DC3D15E18}|Dominio\\Dominio.csproj|c:\\projetos\\fonte\\ddd_angular_net_core_new\\webapivendas\\dominio\\interface\\services\\ivendarealizadaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460399BA-E628-44E0-9CCA-1D0DC3D15E18}|Dominio\\Dominio.csproj|solutionrelative:dominio\\interface\\services\\ivendarealizadaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4061B114-AC38-4593-B71A-A0E577C82C40}|WebAPIVendas\\WebAPIVendas.csproj|c:\\projetos\\fonte\\ddd_angular_net_core_new\\webapivendas\\webapivendas\\controllers\\filialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4061B114-AC38-4593-B71A-A0E577C82C40}|WebAPIVendas\\WebAPIVendas.csproj|solutionrelative:webapivendas\\controllers\\filialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVendaRealizadaService.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Dominio\\Interface\\Services\\IVendaRealizadaService.cs",
+              "RelativeDocumentMoniker": "Dominio\\Interface\\Services\\IVendaRealizadaService.cs",
+              "ToolTip": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Dominio\\Interface\\Services\\IVendaRealizadaService.cs",
+              "RelativeToolTip": "Dominio\\Interface\\Services\\IVendaRealizadaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:54:06.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendaController.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\WebAPIVendas\\Controllers\\VendaController.cs",
+              "RelativeDocumentMoniker": "WebAPIVendas\\Controllers\\VendaController.cs",
+              "ToolTip": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\WebAPIVendas\\Controllers\\VendaController.cs",
+              "RelativeToolTip": "WebAPIVendas\\Controllers\\VendaController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:46:07.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendaRealizadaService.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Servico\\Servicos\\VendaRealizadaService.cs",
+              "RelativeDocumentMoniker": "Servico\\Servicos\\VendaRealizadaService.cs",
+              "ToolTip": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Servico\\Servicos\\VendaRealizadaService.cs",
+              "RelativeToolTip": "Servico\\Servicos\\VendaRealizadaService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:41:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilialController.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\WebAPIVendas\\Controllers\\FilialController.cs",
+              "RelativeDocumentMoniker": "WebAPIVendas\\Controllers\\FilialController.cs",
+              "ToolTip": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\WebAPIVendas\\Controllers\\FilialController.cs",
+              "RelativeToolTip": "WebAPIVendas\\Controllers\\FilialController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:38:46.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendaService.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Servico\\Servicos\\VendaService.cs",
+              "RelativeDocumentMoniker": "Servico\\Servicos\\VendaService.cs",
+              "ToolTip": "C:\\PROJETOS\\FONTE\\DDD_ANGULAR_NET_CORE_NEW\\WebAPIVendas\\Servico\\Servicos\\VendaService.cs",
+              "RelativeToolTip": "Servico\\Servicos\\VendaService.cs",
+              "ViewState": "AgIAAIsBAAAAAAAAAAAtwD4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:35:46.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

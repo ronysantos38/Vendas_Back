@@ -1,0 +1,61 @@
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.runtimeconfig.json
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.genruntimeconfig.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.csproj.AssemblyReference.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.runtimeconfig.json
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.csproj.AssemblyReference.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\obj\Debug\net8.0\Dominio.genruntimeconfig.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Dominio\obj\Debug\net8.0\ref\Dominio.dll

@@ -1,0 +1,83 @@
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.deps.json
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\bin\Debug\net8.0\Dominio.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.AssemblyReference.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.AssemblyInfoInputs.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.AssemblyInfo.cs
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.CoreCompileInputs.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.Up2Date
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\obj\Debug\net8.0\refint\Servico.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Servico\obj\Debug\net8.0\ref\Servico.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.deps.json
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\bin\Debug\net8.0\Dominio.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.AssemblyReference.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.AssemblyInfoInputs.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.AssemblyInfo.cs
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.CoreCompileInputs.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.Up2Date
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\refint\Servico.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\ref\Servico.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.deps.json
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.pdb
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\bin\Debug\net8.0\Dominio.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.AssemblyReference.cache
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.AssemblyInfoInputs.cache
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.AssemblyInfo.cs
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.CoreCompileInputs.cache
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.Up2Date
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\refint\Servico.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.pdb
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Servico\obj\Debug\net8.0\ref\Servico.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.deps.json
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\bin\Debug\net8.0\Dominio.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.AssemblyReference.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.AssemblyInfoInputs.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.AssemblyInfo.cs
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.CoreCompileInputs.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.Up2Date
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\obj\Debug\net8.0\refint\Servico.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\obj\Debug\net8.0\ref\Servico.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.runtimeconfig.json
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.genruntimeconfig.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\bin\Debug\net8.0\Infra.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Servico\bin\Debug\net8.0\Infra.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.deps.json
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.runtimeconfig.json
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\bin\Debug\net8.0\Servico.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\bin\Debug\net8.0\Dominio.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\bin\Debug\net8.0\Infra.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\bin\Debug\net8.0\Infra.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.AssemblyReference.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.AssemblyInfoInputs.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.AssemblyInfo.cs
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.CoreCompileInputs.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.csproj.Up2Date
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\obj\Debug\net8.0\refint\Servico.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\obj\Debug\net8.0\Servico.genruntimeconfig.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Servico\obj\Debug\net8.0\ref\Servico.dll

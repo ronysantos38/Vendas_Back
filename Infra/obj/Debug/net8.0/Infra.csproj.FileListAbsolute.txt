@@ -1,0 +1,79 @@
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.deps.json
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\bin\Debug\net8.0\Dominio.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.Up2Date
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\obj\Debug\net8.0\refint\Infra.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1\WebAPIVendas\Infra\obj\Debug\net8.0\ref\Infra.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.deps.json
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\bin\Debug\net8.0\Dominio.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.Up2Date
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\refint\Infra.dll
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.pdb
+C:\PROJETO_TESTE\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\ref\Infra.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.deps.json
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.pdb
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\bin\Debug\net8.0\Dominio.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.Up2Date
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\refint\Infra.dll
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.pdb
+C:\PROJETOS_OK\PROVA1 - EXEMPLO BASICO DDD FUNCIONANDO\WebAPIVendas\Infra\obj\Debug\net8.0\ref\Infra.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.deps.json
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\bin\Debug\net8.0\Dominio.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.Up2Date
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\obj\Debug\net8.0\refint\Infra.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\obj\Debug\net8.0\ref\Infra.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.runtimeconfig.json
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.genruntimeconfig.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.deps.json
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.runtimeconfig.json
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\bin\Debug\net8.0\Infra.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\bin\Debug\net8.0\Dominio.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\bin\Debug\net8.0\Dominio.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.csproj.Up2Date
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\obj\Debug\net8.0\refint\Infra.dll
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.pdb
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\obj\Debug\net8.0\Infra.genruntimeconfig.cache
+C:\PROJETOS\FONTE\DDD_ANGULAR_NET_CORE_NEW\WebAPIVendas\Infra\obj\Debug\net8.0\ref\Infra.dll
